@@ -1,0 +1,105 @@
+
+body{
+	background: #F4ECF7;
+}
+
+div {
+	float: left;
+}
+
+h1{
+	background: silver;
+	font-size: 35px;
+	color: white;
+}
+
+#text {
+	color: white;
+	font: bold 14px/35px Helvetica, Sans-Serif;
+	opacity: 0.5;
+	letter-spacing: -1px;
+	background: #85929E;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.exo1 {
+	background-image: url(../img/1.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo2 {
+	background-image: url(../img/2.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo3 {
+	background-image: url(../img/3.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo4 {
+	background-image: url(../img/4.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo5 {
+	background-image: url(../img/5.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo6 {
+	background-image: url(../img/6.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo7 {
+	background-image: url(../img/7.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo8 {
+	background-image: url(../img/8.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.exo9 {
+	background-image: url(../img/9.png);
+	width: 240px; 
+    height: 349px;
+    border-radius: 10%;
+    margin: 15px;
+    display: inline-block;
+}
